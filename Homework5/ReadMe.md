@@ -59,3 +59,5 @@ private:
 	...
 };
 P.S. In the method void Camera::rotate(GLfloat const pitch, GLfloat const yaw), ‘pitch’ and ‘yaw’ means the Euler angles. Euler angles are 3 values that can represent any rotation in 3D, defined by Leonhard Euler somewhere in the 1700s.
+The following image gives them a visual meaning:
+https://sysucg.github.io/images/pyr.png
